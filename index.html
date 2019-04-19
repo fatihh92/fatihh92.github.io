@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<head>
+<title>WELCOME</title>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<script src="js/jquery-2.1.4.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+</head>
+<body>
+<p style="color:green">HELLO WORLD</p>
+<p id="deneme" onclick="ff()"style="color:green">HELLO WORLD</p>
+<p id="myip"></p>
+<script>
+function ff(){
+  document.getElementById("deneme").innerHTML="deneme";
+}
+</script>
+<script>
+function getIP(json) {
+  document.getElementById("myip").innerHTML=json.ip;
+}
+</script>
+<script src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
+</body>
+</html>
