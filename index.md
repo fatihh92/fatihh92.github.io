@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# HELLO WORLD
+# Hello World
 Bu bir deneme yazısıdır
 
 [Devam Et](./welcome.html)
