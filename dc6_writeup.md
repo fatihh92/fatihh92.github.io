@@ -7,14 +7,21 @@ layout: post
 Today I am starting to write first blog post.I decided to write my pwned machines from vulnhub site.
 I also release writeups of hackthebox machines in my github page.You can go here:[Github](https://github.com/fatihh92/HackTheBox-Writeups)
 
-The machine level is beginner.So I pwned that in a short time.First of all I used these tools:
+The machine level is beginner.So I pwned that in a short time.First of all I used these tools;
 
-### Tools:
+### Tools
 * netdiscover
 * nmap
 * wpscan
- 
+
+### Steps 
+
+I need to find target machine ip So I used <code>netdiscover</code> tool.I started to scan my network.
+Network adapter was in briged mode  by the way.And I detected target ip : <bold>192.168.1.104</bold>
+
 ![deneme](/img/DC6/1.png)
+
+
 ![deneme](/img/DC6/2.png)
 ![deneme](/img/DC6/3.png)
 ![deneme](/img/DC6/4.png)
