@@ -69,14 +69,43 @@ But I was need to manage some parts of it like everytime.I run it and I got reve
 
 ![deneme](/img/DC6/11.png)
 
+I checked my rights .Of course I got connection as `www-data`.
 
 ![deneme](/img/DC6/12.png)
+
+But I was a file named 'things-to-do.txt' When I went to `/home/mark/stuff` directory and read that.
+There was have some creds.Of course I could try to connect with ssh but didnt try .
+ 
 ![deneme](/img/DC6/13.png)
+
+I continued with  `su`. 
+
 ![deneme](/img/DC6/14.png)
+
+I did first thing for privilege escalation when I connected a machine.
+it is very usefull and simple way : `sudo -l`. it show you that: [explainshell](https://explainshell.com/explain?cmd=sudo+-l) 
+
 ![deneme](/img/DC6/15.png)
+
+I found a bash script .I opened the script and add my line on last line.
+
 ![deneme](/img/DC6/16.png)
+
+I run it and I was be `jens` user. I did same thing before last step.And I saw `nmap` .First of all I tried `nmap --interactive` but didnt work.
+
 ![deneme](/img/DC6/17.png)
+
+I thought for a couple of  mins and I remember `nmap scripting` .I haven't been used that before but this time worked.
+
 ![deneme](/img/DC6/18.png)
+
+I got `root` user and I went to root directory but didnt seens my lines .I dont know why .
+
 ![deneme](/img/DC6/19.png)
+
+### Summary:
+
+It was easy but I learnt very usefull informations ,sometimes I saw first time somethings but it was little bit long .
+Have a good hacks .See you next machines :)
 
 [back](./)
