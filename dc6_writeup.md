@@ -16,15 +16,25 @@ The machine level is beginner.So I pwned that in a short time.First of all I use
 
 ### Steps 
 
-I need to find target machine ip So I used <code>netdiscover</code> tool.I started to scan my network.
-Network adapter was in briged mode  by the way.And I detected target ip : <bold>192.168.1.104</bold>
+I need to find target machine ip So I used **netdiscover** tool.I started to scan my network.
+Network adapter was in briged mode  by the way.And I detected target ip : **192.168.1.104**
 
 ![deneme](/img/DC6/1.png)
 
+I started nmap scanning after I found target ip normally.there is open 2 common port.
 
 ![deneme](/img/DC6/2.png)
+
+But I saw some info when I used **sC** flag.The flag everytime work for me.
+You can see there is have a domain name and the site is wordpress site.
+
 ![deneme](/img/DC6/3.png)
+
+I added the ip address to **/etc/hosts** file.
+
 ![deneme](/img/DC6/4.png)
+
+
 ![deneme](/img/DC6/5.png)
 ![deneme](/img/DC6/6.png)
 ![deneme](/img/DC6/7.png)
