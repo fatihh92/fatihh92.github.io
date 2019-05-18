@@ -2,6 +2,9 @@
 layout: post
 ---
 
-devamı burda olucak.
+# [VulnHub]DC:6 WriteUp
+
+
+
 
 [back](./)

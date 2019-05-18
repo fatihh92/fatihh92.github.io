@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hello World
-Bu bir deneme yazısıdır
+# [VulnHub]DC:6 WriteUp
 
-[Devam Et](./welcome.html)
+
+[Devam Et](./dc6_writeup.html)
