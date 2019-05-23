@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [VulnHub] Unknowndevice64:2 WriteUp **For Android Pentesters**
+# [VulnHub] Unknowndevice64:2 WriteUp For Android Pentesters
 
 [Contunie](./unknown.html)
 
