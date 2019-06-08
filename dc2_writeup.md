@@ -67,6 +67,7 @@ But There is have shell restriction .So I started to search how can I pass the r
 -----------------------------------------------------------
 I looked which commands can work here and I saw my darling `vi`.Because
 You can almost pass every restriction  with it .
+
 ![dc2](/img/dc2/11.png)
 ----------------------------------------------------------
 First I typed `set shell=/bin/bash` and `:shell` in vi .
@@ -76,15 +77,20 @@ For work truely
 ![dc2](/img/dc2/12.png)
 ---------------------------------------------------------
 I exporteed them and read flag3.As I understand I need to be jerry and I did what I understood
-And I started enumeration for root .
+And I started enumeration for root .I saw git command can work with root privileges.
 
 ![dc2](/img/dc2/13.png)
+--------------------------------------------------------
+So I started to search `linux git priv esc` in google.And I found [that](http://blog.securelayer7.net/abusing-sudo-advance-linux-privilege-escalation/) .
+First I typed `sudo /usr/bin/git help status` after than typed :
+`!/bin/bash` and I got root and final .
 
 ![dc2](/img/dc2/14.png)
 
 
 ### Summary:
 
-
+I really liked the machine.I saw a tool first time again.it was be good practice for me So I recommended to solved on your own.
+Have a good hacks .See you next machines :)
 
 [back](./)
