@@ -2,6 +2,11 @@
 layout: default
 ---
 
+# [VulnHub]Silky-CTF: 0x01 WriteUp
+
+[Contunie](./silky_ctf1.html)
+
+----------------------------------------------------------
 # [VulnHub]DC:2 WriteUp
 
 [Contunie](./dc2_writeup.html)
