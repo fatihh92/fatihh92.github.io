@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [VulnHub]Silky-CTF: 0x01 WriteUp
+# [VulnHub]Silky-CTF: 0x01 WriteUp (To Be Fake :D )
 
 [Contunie](./silky_ctf1.html)
 
