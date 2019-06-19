@@ -4,34 +4,34 @@ layout: default
 
 # [VulnHub]Silky-CTF: 0x01 WriteUp (To Be Fake :D )
 
-[Contunie](./silky_ctf1.html)
+[Contunie](./silky_ctf1.html) - <b>19 June 2019</b>
 
 ----------------------------------------------------------
 # [VulnHub]DC:2 WriteUp
 
-[Contunie](./dc2_writeup.html)
+[Contunie](./dc2_writeup.html) - <b>8 June 2019</b>
 
 ----------------------------------------------------------
 
 # [VulnHub]DC:3 WriteUp
 
-[Contunie](./dc3_writeup.html)
+[Contunie](./dc3_writeup.html) - <b>7 June 2019</b>
 
 -----------------------------------------------------------
 
 # [VulnHub] Sputnik:1 WriteUp
 
-[Contunie](./sputnik.html)
+[Contunie](./sputnik.html) - <b>25 May 2019</b>
 
 ------------------------------------------------------------
 
 # [VulnHub] Unknowndevice64:2 WriteUp For Android Pentesters
 
-[Contunie](./unknown.html)
+[Contunie](./unknown.html) - <b>23 May 2019</b>
 
 -------------------------------------
 
 # [VulnHub]DC:6 WriteUp
 
 
-[Contunie](./dc6_writeup.html)
+[Contunie](./dc6_writeup.html) - <b>18 May 2019</b>
