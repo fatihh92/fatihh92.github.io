@@ -2,6 +2,12 @@
 layout: default
 ---
 
+# FUZZYİNG WİTH HTB CHALLENGE
+
+[Contunie](./fuzzying.html) - <b>11 July 2019</b>
+
+----------------------------------------------------------
+
 # [VulnHub]Silky-CTF: 0x01 WriteUp (To Be Fake :D )
 
 [Contunie](./silky_ctf1.html) - <b>19 June 2019</b>
