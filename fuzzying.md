@@ -12,7 +12,7 @@ some parts but you can understand easly.
 ### Tools
 
 * [wfuzz](https://tools.kali.org/web-applications/wfuzz) 
-* [dirbuster]()
+* [dirbuster](https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project)
 
 ### Steps 
 
