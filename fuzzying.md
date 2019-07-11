@@ -22,14 +22,17 @@ And started to find php pages.
 
 
 ![htb](/img/fuzzying/1.png)
+
 -------------------------------------------------------------
 I found a directory and there was has a php page .So I went to the page.
 
 ![htb](/img/fuzzying/2.png)
+
 -------------------------------------------------------------
 I faced this error when I went to the page.And Fuzzying is started in this point
 
 ![htb](/img/fuzzying/3.png)
+
 -------------------------------------------------------------
 I used wfuzz tool.it is very useful tool I absolutely recommended thi tool.
 If you dont know a parameter or a page name you can use to find the unknown things.
@@ -39,16 +42,19 @@ question mark.And I used `--hw` parameter because I knew our parameter is existi
 In the end it found a parameter you can see in payload part.
 
 ![htb](/img/fuzzying/4.png)
+
 -------------------------------------------------------------
 When I used the paramter in the url we I got one more error.This time I need to find right id.
 So I started fuzzying again.
 
 ![htb](/img/fuzzying/5.png)
+
 -------------------------------------------------------------
 This time I put it right of equal.Because We dont know a value .And I used `big.txt` wordlist .
 And this word is existing over 5 word.I know that because I tried before.And I found a value .
 
 ![htb](/img/fuzzying/6.png)
+
 -------------------------------------------------------------
 End of the day I used it in url and went to there.And I got flag.
 
