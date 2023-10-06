@@ -4,7 +4,9 @@ layout: default
 
 # EXAMPLE
 
-[Contunie](./books.html) - <p class="view">{{ site.time | date: "%-d %B %Y" }}</p>
+[Contunie](./books.html) - <b class="view">{{ site.time | date: "%-d %B %Y" }}</b>
+
+----------------------------------------------------------
 
 # FUZZYİNG WİTH HTB CHALLENGE
 
