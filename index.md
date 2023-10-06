@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# EXAMPLE
+<!-- # EXAMPLE
 
 [Contunie](./books.html) - <b class="view">{{ site.time | date: "%-d %B %Y" }}</b>
 
-----------------------------------------------------------
+---------------------------------------------------------- -->
 
 # FUZZYİNG WİTH HTB CHALLENGE
 
