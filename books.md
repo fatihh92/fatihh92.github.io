@@ -2,9 +2,9 @@
 layout: post
 ---
 <table style="width:100%">
-<tr><th><center>BOOKS</center></th></tr>
+<tr><th colspan="2">BOOKS</th></tr>
 <tr>
-<th>Techinacal</th>
+<th>Technical</th>
 <th>Non-Technical</th>
 </tr>
 <tr>
