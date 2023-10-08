@@ -2,7 +2,7 @@
 layout: post
 ---
 <table style="width:100%">
-<tr><th colspan="2">BOOKS</th></tr>
+<tr><th colspan="2"><center>BOOKS</center></th></tr>
 <tr>
 <th>Technical</th>
 <th>Non-Technical</th>
@@ -24,7 +24,7 @@ layout: post
 <td>Cumhuriyet'in 100 İsmi - Emrah Sefa Gürkan</td>
 </tr>
 <tr>
-<td>Mastering Wiindows Security</td>
+<td>Mastering Windows Security</td>
 <td>Cumhuriyet'in 100 Günü - Emrah Sefa Gürkan</td>
 </tr>
 <tr>
