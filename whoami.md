@@ -11,9 +11,9 @@ between 2019 and 2022. I'm making small updates on blog because I want to blog a
 I hope It will be contunie :) You can follow me these platforms:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/fatih-ilgin-652816127)
 &nbsp;
-[![GitHub](/img/github.png) GitHub](https://github.com/fatihh92)
+[![GitHub](/img/github.png =100x100) GitHub](https://github.com/fatihh92)
 &nbsp;
-[![Twitter/X](/img/twitter.png) Twitter/X](https://twitter.com/fatih_ilgin)
+[![Twitter/X](/img/twitter.png =100x100) Twitter/X](https://twitter.com/fatih_ilgin)
 </i>
 
 # Certs
