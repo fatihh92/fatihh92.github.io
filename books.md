@@ -33,7 +33,7 @@ layout: post
 </tr>
 <tr>
 <td>The Art Of Cyberwarfare</td>
-<td>Çölde İsyan - T.E.Lawrence :heavy_check_mark:</td>
+<td>Çölde İsyan - T.E.Lawrence &#9989;</td>
 </tr>
 <tr>
 <td>Kubernetes Security and Observability</td>
