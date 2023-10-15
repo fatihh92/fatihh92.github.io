@@ -33,7 +33,7 @@ layout: post
 </tr>
 <tr>
 <td>The Art Of Cyberwarfare</td>
-<td>Çölde İsyan - T.E.Lawrence</td>
+<td>Çölde İsyan - T.E.Lawrence :heavy_check_mark:</td>
 </tr>
 <tr>
 <td>Kubernetes Security and Observability</td>
@@ -41,6 +41,7 @@ layout: post
 </tr>
 <tr>
 <td>Practical Social Engineering</td>
+<td>Zeytindağı - Falih Rıfkı Atay &#9989;</td>
 </tr>
 <tr>
 <td>OWASP Automated Threat Handbook</td>
