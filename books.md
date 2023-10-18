@@ -37,7 +37,7 @@ layout: post
 </tr>
 <tr>
 <td>Kubernetes Security and Observability</td>
-<td>Casus - Paulo Coelho</td>
+<td>Casus - Paulo Coelho &#9989;</td>
 </tr>
 <tr>
 <td>Practical Social Engineering</td>
