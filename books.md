@@ -13,7 +13,7 @@ layout: post
 </tr>
 <tr>
 <td>ChipWar</td>
-<td>Tek Adam 2/3 - Şevket Süreyya Aydemir</td>
+<td>Tek Adam 2 &#9989;/3 - Şevket Süreyya Aydemir</td>
 </tr>
 <tr>
 <td>Evading EDR</td>
