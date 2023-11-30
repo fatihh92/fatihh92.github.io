@@ -18,6 +18,7 @@ I hope It will be contunie :) You can follow me these platforms:
 
 # Certs
 ---------------------------------
+* OSEP (Offensive Security Experienced Penetration Tester)
 * API Penetration Testing
 * CRTE (Certified Red Team Expert)
 * OSWE (Offensive Security Web Expert)

@@ -45,6 +45,7 @@ layout: post
 </tr>
 <tr>
 <td>OWASP Automated Threat Handbook</td>
+<td>Çankaya - Falih Rıfkı Atay &#9989;</td>
 </tr>
 </table>
 
