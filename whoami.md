@@ -8,7 +8,7 @@ layout: post
 My name is Fatih. I'm working in a bank as Penetration Tester/Red Teamer since October 2022.
 Before that, I worked on a Cyber Security Consultant firm as Penetration Tester/Red Teamer 
 between 2019 and 2022. I'm making small updates on blog because I want to blog again.
-I hope It will be contunie :) You can follow me these platforms:
+I also joined [![GitHub](/img/synack.png){:height="20px" width="20px"} Synack Red Team](https://www.synack.com/red-team/) on last month of 2023 so I started to bug bounty finally  :) You can follow me these platforms:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/fatih-ilgin-652816127)
 &nbsp;
 [![GitHub](/img/github.png){:height="20px" width="20px"} GitHub](https://github.com/fatihh92)
