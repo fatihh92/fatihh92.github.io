@@ -16,6 +16,8 @@ I also joined [![GitHub](/img/synack.png){:height="20px" width="20px"} Synack Re
 &nbsp;
 [![Twitter/X](/img/twitter.png){:height="20px" width="20px"} Twitter/X](https://twitter.com/fatih_ilgin)
 </i>
+<br/>
+<img src="https://www.hackthebox.eu/badge/image/9931" alt="ghroot" width="%100" height="%100">
 
 # Certs
 ---------------------------------
